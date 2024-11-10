@@ -64,4 +64,4 @@ Future Work
 
 In this I can connect it to a LLM like llama or bert can can use that to ask questions from the pdf and generate answers from it.
 
-OCR for Scanned PDFs:  I can Integrate OCR techniques to handle scanned or written documents.
+OCR for Scanned PDFs:  I can Integrate OCR techniques to handle scanned or written documents in pdf form
